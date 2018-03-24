@@ -43,6 +43,18 @@ a:hover {
   background-color: #50D8C8;
 }
 
+.wy-nav-top {
+  background-color: #50D8C8;
+}
+
+.wy-nav-top .fa-bars {
+  margin-top: 8px;
+}
+
+.wy-nav-top a {
+  color: white;
+}
+
 .wy-side-nav-search input[type="text"] {
   border: none;
   border-radius: unset;
