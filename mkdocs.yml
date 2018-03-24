@@ -1,0 +1,9 @@
+site_name: SignDict
+theme: readthedocs
+repo_url: http://github.com/signdict/docs
+pages:
+  - Start: index.md
+  - FAQ: faq.md
+  - SignDict: signdict.md
+  - "Deutsche Gebärdensprache": dgs.md
+  - "Baby Sign": babysign.md
