@@ -5,7 +5,7 @@ theme:
 repo_url: http://github.com/signdict/docs
 copyright: "<a href='https://signdict.org'>SignDict Dokumentation</a> - Lizenziert unter <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA</a> "
 pages:
-  - Einleitung: index.md
+  - Übersicht: index.md
   - FAQ: faq.md
   - "Deutsche Gebärdensprache (DGS)":
     - "Einleitung": "dgs/1_einleitung.md"
