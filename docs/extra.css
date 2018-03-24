@@ -48,8 +48,12 @@ a:hover {
   border-radius: unset;
 }
 
-
 form .search-query {
   border-radius: unset;
   border: 1px solid black;
+}
+
+iframe {
+  max-width: 100%;
+  max-height: 70vw;
 }
