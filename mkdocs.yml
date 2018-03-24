@@ -1,5 +1,7 @@
 site_name: SignDict
-theme: readthedocs
+theme:
+  name: readthedocs
+  custom_dir: german_theme
 repo_url: http://github.com/signdict/docs
 pages:
   - Start: index.md
@@ -7,3 +9,8 @@ pages:
   - SignDict: signdict.md
   - "Deutsche Gebärdensprache": dgs.md
   - "Baby Sign": babysign.md
+
+extra:
+  search:
+    language: de
+
