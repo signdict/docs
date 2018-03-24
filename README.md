@@ -8,6 +8,3 @@ Willkommen in der Dokumentation zu [SignDict](https://signdict.org). Hier findes
 * [Alles zum Thema SignDict](signdict.md)
 * [Die Deutsche Gebärdensprache - DGS](dgs.md)
 * [BabySign](babysign.md)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NjEzMDQ1NV19
--->
