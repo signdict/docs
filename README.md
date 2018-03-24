@@ -6,3 +6,5 @@ Here you will find the german documentation of SignDict ([docs.signdict.org](htt
 
 If you want to contribute, look into the [`docs`](docs) folder and start editing
 the files that you want to change.
+
+To run this locally, install [MkDocs](http://www.mkdocs.org/) and run `mkdocs serve -a 0.0.0.0:4000`. 

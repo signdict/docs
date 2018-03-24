@@ -1,0 +1,55 @@
+a, a:visited {
+  color: #50D8C8;
+}
+
+a:hover {
+  color: #50D8C8;
+  text-decoration: underline;
+}
+
+.btn:visited, .btn:hover, .btn, .btn-neutral {
+  background-color: #50D8C8 !important;
+  color: white !important;
+  border: none;
+  box-shadow: none;
+}
+
+.wy-nav-content-wrap {
+  background-color: white;
+}
+
+.wy-side-nav-search {
+  background-color: #50D8C8;
+}
+
+.wy-side-nav-search .icon {
+  color: white;
+}
+
+.wy-nav-side, .rst-versions {
+  color: white;
+  background-color: #10134b;
+}
+
+.rst-versions .rst-current-version {
+  background-color: #10134b;
+}
+
+.wy-menu-vertical a {
+  color: white;
+}
+
+.wy-menu-vertical a:hover {
+  background-color: #50D8C8;
+}
+
+.wy-side-nav-search input[type="text"] {
+  border: none;
+  border-radius: unset;
+}
+
+
+form .search-query {
+  border-radius: unset;
+  border: 1px solid black;
+}
