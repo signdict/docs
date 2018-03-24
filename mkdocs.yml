@@ -5,10 +5,14 @@ theme:
 repo_url: http://github.com/signdict/docs
 copyright: "<a href='https://signdict.org'>SignDict Dokumentation</a> - Lizenziert unter <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA</a> "
 pages:
-  - Start: index.md
+  - Einleitung: index.md
   - FAQ: faq.md
-  - "Deutsche Gebärdensprache": dgs.md
-  - "Baby Sign": babysign.md
+  - "Deutsche Gebärdensprache (DGS)":
+    - "Einleitung": "dgs/1_einleitung.md"
+    - "Mythen über die Gebärdensprache": "dgs/2_mythen.md"
+    - "Lernen": "dgs/3_lernen.md"
+  - "Baby Sign":
+    - "Einleitung": "babysign/1_einleitung.md"
   - "API": api.md
 extra_css: [extra.css]
 extra:

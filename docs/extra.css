@@ -14,6 +14,19 @@ a:hover {
   box-shadow: none;
 }
 
+@media only screen and (device-width: 768px),
+only screen and (max-width: 768px) {
+  .wy-breadcrumbs-aside {
+    display: none;
+  }
+}
+
+.wy-breadcrumbs-aside {
+  width: 100%;
+  text-align: right;
+  margin-bottom: 0.3em;
+}
+
 .wy-nav-content-wrap {
   background-color: white;
 }
@@ -36,6 +49,15 @@ a:hover {
 }
 
 .wy-menu-vertical a {
+  color: white;
+}
+
+.wy-menu-vertical span {
+  color: white;
+  font-style: italic;
+}
+
+.wy-menu-vertical li ul li a {
   color: white;
 }
 

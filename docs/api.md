@@ -1,4 +1,4 @@
-# API
+## Allgemeines
 
 Wir bieten eine [GraphQL](https://www.graphql.com/) basierende
 API für SignDict an. Du kannst diese [hier](https://signdict.org/graphql-api/graphiql)
