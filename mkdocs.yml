@@ -11,6 +11,7 @@ pages:
     - "Einleitung": "dgs/1_einleitung.md"
     - "Mythen über die Gebärdensprache": "dgs/2_mythen.md"
     - "Lernen": "dgs/3_lernen.md"
+    - "Fingeralphabet": "dgs/4_fingeralphabet.md"
   - "Baby Sign":
     - "Einleitung": "babysign/1_einleitung.md"
   - "API": api.md
