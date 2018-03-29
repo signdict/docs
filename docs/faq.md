@@ -39,3 +39,7 @@ mit Hilfe deiner Webcam hinzuzufügen. Für diese Funktion brauchst du
 allerdings einen aktuellen Firefox oder Chrome Browser und eine Webcam.
 Solltest du Fragen bei der Nutzung der Funktion haben, [kontaktiere](http://creativecommons.org/)
 mich gern.
+
+## Gibt es eine API?
+
+Ja, wir haben auch eine [API](api), um auf die Videos zuzugreifen.
