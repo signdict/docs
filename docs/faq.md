@@ -40,6 +40,12 @@ allerdings einen aktuellen Firefox oder Chrome Browser und eine Webcam.
 Solltest du Fragen bei der Nutzung der Funktion haben, [kontaktiere](http://creativecommons.org/)
 mich gern.
 
+## Kann ich an der Dokumentation mitarbeiten?
+
+Ja, diese Dokumentation ist, genauso wie SignDict, frei verfügbar und jede:r kann
+mithelfen. Kontaktiere [mich](http://signdict.org/contact) und ich werde dir
+alles weitere erklären.
+
 ## Gibt es eine API?
 
 Ja, wir haben auch eine [API](api), um auf die Videos zuzugreifen.
