@@ -90,4 +90,6 @@ form .search-query {
 iframe {
   max-width: 100%;
   max-height: 70vw;
+  margin-bottom: 1em;
 }
+
