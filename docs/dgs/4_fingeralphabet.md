@@ -17,8 +17,15 @@ Hier das deutsche Fingeralphabet:
 ![Fingeralphabet](/img/deutsches_fingeralphabet.jpg)
 Quelle: [Landesverband Bayern der Gehörlosen e. V. - Infokarte des Landesverband Bayern der Gehörlosen e. V.](https://commons.wikimedia.org/w/index.php?curid=53190516), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
+Alle Buchstaben findest du auch [in SignDict](https://signdict.org/list/13-fingeralphabet).
+
 Während du ein Wort buchstabierst, halte die Hand auf der Höhe des Kinns und spreche
 lautlos das Wort mit. Versuche dabei, sauber und flüssig die Buchstaben ineinander
 übergehen zu lassen. Nach jedem Wort wird eine kleine Pause eingefügt um zu verdeutlichen,
 das nun ein neues Wort beginnt. Bei einem Fehler während des Buchstabierens wird
 wieder von vorne begonnen.
+
+Wenn ein Buchstabe doppelt vorkommt, ziehst du deine Hand nach außen um zu verdeutlichen,
+das dieser Buchstabe doppelt vorhanden ist. Hier ein Beispiel mit **nn**:
+
+<iframe width="560" height="420" src="https://signdict.org/embed/2615-nn" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
