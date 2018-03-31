@@ -11,5 +11,5 @@ the files that you want to change.
 To run this locally, follow these steps:
 
 * install [MkDocs](http://www.mkdocs.org/)
-* run `mkdocs serve -a 0.0.0.0:4000`. 
+* run `make serve`. 
 * Open [`http://localhost:4000`](http://localhost:4000) in your browser
