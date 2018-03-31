@@ -49,6 +49,13 @@ Studien wurde ein verbessertes peripheres Sehen [nachgewiesen](https://www.scien
 Dies hilft, den fehlenden Hörsinn auszugleichen. Unterm Strich fahren Gehörlose
 nicht besser oder schlechter als Menschen mit einem sehr guten Gehör.
 
+# Gehörlose können nicht hören
+
+Gehörlosigkeit bedeutet nicht zwangsläufig, das die Person absolut nicht hören kann.
+Der Grad zwischen Schwerhörig und Gehörlos ist nicht immer so einfach zu bestimmen.
+Einige gehörlose Menschen nehmen also noch bestimmte Frequenzen und Geräusche war,
+aber nicht genug, um sich nur auf Ihr Gehör zu verlassen.
+
 # Name immer buchstabieren ist doch umständlich
 
 Das [Fingeralphabet](4_fingeralphabet) wird zwar benutzt, um den Namen einer
