@@ -12,8 +12,10 @@ pages:
     - "Mythen über die Gebärdensprache": "dgs/2_mythen.md"
     - "Lernen": "dgs/3_lernen.md"
     - "Fingeralphabet": "dgs/4_fingeralphabet.md"
+    - "Fortsetzung folgt": "dgs/99_hilfe.md"
   - "Baby Sign":
     - "Einleitung": "babysign/1_einleitung.md"
+    - "Fortsetzung folgt": "babysign/99_hilfe.md"
   - "API": api.md
 extra_css: [extra.css]
 extra:
