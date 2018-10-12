@@ -4,7 +4,7 @@ theme:
   custom_dir: german_theme
 repo_url: http://github.com/signdict/docs
 copyright: "<a href='https://signdict.org'>SignDict Dokumentation</a> - Lizenziert unter <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA</a> "
-pages:
+nav:
   - Übersicht: index.md
   - FAQ: faq.md
   - "Deutsche Gebärdensprache (DGS)":
