@@ -3,10 +3,10 @@
   {% if page and page.next_page or page.previous_page %}
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       {% if page.next_page %}
-        <a href="{{ page.next_page.url }}" class="btn btn-neutral float-right" title="{{ page.next_page.title }}">Nächste &raquo;</a>
+        <a href="/{{ page.next_page.url }}" class="btn btn-neutral float-right" title="{{ page.next_page.title }}">Nächste &raquo;</a>
       {% endif %}
       {% if page.previous_page %}
-        <a href="{{ page.previous_page.url }}" class="btn btn-neutral" title="{{ page.previous_page.title }}">&laquo; Vorherige</a>
+        <a href="/{{ page.previous_page.url }}" class="btn btn-neutral" title="{{ page.previous_page.title }}">&laquo; Vorherige</a>
       {% endif %}
     </div>
   {% endif %}
