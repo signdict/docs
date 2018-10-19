@@ -48,4 +48,4 @@ alles weitere erklären.
 
 ## Gibt es eine API?
 
-Ja, wir haben auch eine [API](api), um auf die Videos zuzugreifen.
+Ja, wir haben auch eine [API](/api), um auf die Videos zuzugreifen.
