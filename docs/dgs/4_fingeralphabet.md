@@ -3,13 +3,13 @@ bei Namen und Wörtern benutzt, für die es noch keine weit verbreitete
 Gebärde gibt. Dabei wird meistens erst der Name oder das Wort
 buchstabiert und dann die dazugehörige Gebärde. Es wäre in einer Unterhaltung
 zu kompliziert, jedes mal den Namen zu buchstabieren. Jede Person hat einen 
-Gebärden-Spitznamen (wie z.B. [Frau Merkel](https://signdict.org/entry/2456-merkel)),
+Gebärden-Spitznamen (wie z. B. [Frau Merkel](https://signdict.org/entry/2456-merkel)),
 der direkt nach dem Buchstabieren gezeigt und benutzt wird.
 
 Das Einhand-Fingeralphabet ist relativ einheitlich, die meisten nationalen Varianten unterscheiden
 sich nur minimal durch hinzugefügte Zeichen für besonders häufige Laute oder fehlende
-Buchstaben wie ÄÖÜ im deutschen. Es gibt aber auch noch andere Varianten, wie
-die Japanische oder das Zwei-Hand Fingeralphabet in Großbritanien. Mehr dazu in 
+Buchstaben wie Ä, Ö und Ü im Deutschen. Es gibt aber auch noch andere Varianten, wie
+die Japanische oder das Zwei-Hand-Fingeralphabet in Großbritanien. Mehr dazu in 
 [Wikipedia](https://de.wikipedia.org/wiki/Fingeralphabet).
 
 Hier das deutsche Fingeralphabet:
@@ -26,6 +26,6 @@ das nun ein neues Wort beginnt. Bei einem Fehler während des Buchstabierens wir
 wieder von vorne begonnen.
 
 Wenn ein Buchstabe doppelt vorkommt, ziehst du deine Hand nach außen um zu verdeutlichen,
-das dieser Buchstabe doppelt vorhanden ist. Hier ein Beispiel mit **nn**:
+dass dieser Buchstabe doppelt vorhanden ist. Hier ein Beispiel mit **nn**:
 
 <iframe width="560" height="420" src="https://signdict.org/embed/2615-nn" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

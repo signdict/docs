@@ -5,7 +5,7 @@ gerne über das [Kontaktformular](https://signdict.org/contact) stellen.
 
 ## Was ist SignDict?
 
-SignDict ist ein Gebärdensprach-Lexikon. Hier kannst
+SignDict ist ein Gebärdensprach-Lexikon für die Deutsche Gebärdensprache (DGS). Hier kannst
 du nach Wörtern suchen und deren Gebärde finden. Sollte
 ein Wort fehlen, kannst du dies mit Hilfe deiner Webcam
 selber hinzufügen. Wie SignDict entstanden ist, kannst
@@ -15,13 +15,13 @@ du [hier](https://signdict.org/about) nachlesen.
 
 Hauptsächlich arbeitet hier [Bodo Tasche](http://bodo.tasche.me). Es
 kann aber jede:r mithelfen. Sei es bei dem [Programmcode](https://github.com/signdict/website),
-bei dem hinzufügen von Videos mit der eigenen Webcam oder bei dieser
-Dokumentation. Du kannst mich gerne [kontaktieren](https://signdict.org/contact) wenn
+bei dem Hinzufügen von Videos mit der eigenen Webcam oder bei dieser
+Dokumentation. Du kannst mich gerne [kontaktieren](https://signdict.org/contact), wenn
 du mehr wissen willst.
 
 ## Kann ich die Videos benutzen?
 
-Ja, solange du die Lizenzbedingungen einhälst. Unter jedem Video findest
+Ja, solange du die Lizenzbedingungen einhältst. Unter jedem Video findest
 du den Link zu der jeweiligen ["Creative Commons"](http://creativecommons.org/) Lizenz.
 Einige der Videos dürfen nicht kommerziell eingesetzt werden. Bei allen musst
 du aber immer die Quelle und die Lizenz nennen, wenn du die Videos selber
@@ -36,7 +36,7 @@ SignDict kostenlos angeboten werden.
 
 Solltest du ein Wort nicht finden, bietet dir SignDict an, das Wort
 mit Hilfe deiner Webcam hinzuzufügen. Für diese Funktion brauchst du
-allerdings einen aktuellen Firefox oder Chrome Browser und eine Webcam.
+allerdings einen aktuellen Browser wie Firefox oder Chrome und eine Webcam.
 Solltest du Fragen bei der Nutzung der Funktion haben, [kontaktiere](http://creativecommons.org/)
 mich gern.
 

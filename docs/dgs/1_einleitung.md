@@ -1,5 +1,5 @@
 Du hast Interesse an der Deutsche Gebärdensprache (DGS)? Sehr schön.
-Danke das du hier bist. Deine erste Frage wird vermutlich sein:
+Danke, dass du hier bist. Deine erste Frage wird vermutlich sein:
 "Deutsche"? Gibt es mehr als eine Gebärdensprache? Ja, gibt es.
 Beinahe jedes Land hat seine eigene Gebärdensprache. So wie fast
 jedes Land seine eigene Lautsprache hat.
@@ -11,8 +11,8 @@ sehr schon erklärt:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XaFWkBhwT3w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Bei [SignDict](http://signdict.org) wirst du einzelne Worte und deren Gebärde
-finden. Viele haben dabei mehr als eine Variante, das Wort zu gebärden. Zu Beispiel
+finden. Viele haben dabei mehr als eine Variante, das Wort zu gebärden. Zum Beispiel
 das Wort ["Zug"](https://signdict.org/entry/835-zug). Dies ist auf den hohen
-Grad der Dialekte in der deutschen Gebärdensprache zurück zu führen. Aber lass dich
+Grad der Dialekte in der deutschen Gebärdensprache zurückzuführen. Aber lass dich
 davon nicht entmutigen. Eine Gebärde pro Wort reicht vollkommen aus. Du wirst
 auch so auf jeden Fall verstanden.
