@@ -26,7 +26,7 @@ Gefühle, Fragen oder Betonungen zu verdeutlichen.
 
 Lippenlesen ist eine nicht gerade einfache erlernte Fähigkeit. Viele Wörter
 haben ähnliche Mundformen, wie zum Beispiel "Mutter" und "Butter". Dies sorgt
-dafür, dass Lippenlesen keine gute alternative zur Kommunikation darstellt.
+dafür, dass Lippenlesen keine gute Alternative zur Kommunikation darstellt.
 Selbst wenn die gehörlose Person dir gegenüber Lippenlesen kann, versuche, mit
 Gesten deine Aussage zu untermalen.
 
@@ -36,7 +36,7 @@ Die Grammatik der deutschen Gebärdensprache unterscheidet sich stark von
 der deutschen Lautsprache. Der Satz "Du suchst eine Arbeit" wird zum Beispiel
 "du arbeit suchen" gebärdet. Eine genauere Erklärung findest du in der [Wikipedia](https://de.wikipedia.org/wiki/Deutsche_Geb%C3%A4rdensprache#Die_Grammatik_der_Deutschen_Geb%C3%A4rdensprache).
 
-# Gehörlosigkeit ist nur Genetisch
+# Gehörlosigkeit ist nur genetisch
 
 Gehörlosigkeit kann viele Faktoren haben. Genetische Vererbung ist nur eine davon.
 Zum Beispiel gehört Schwerhörigkeit bis zur Gehörlosigkeit zu einer der Risiken einer
@@ -51,10 +51,10 @@ nicht besser oder schlechter als Menschen mit einem sehr guten Gehör.
 
 # Gehörlose können nicht hören
 
-Gehörlosigkeit bedeutet nicht zwangsläufig, das die Person absolut nicht hören kann.
-Der Grad zwischen Schwerhörig und Gehörlos ist nicht immer so einfach zu bestimmen.
+Gehörlosigkeit bedeutet nicht zwangsläufig, dass die Person absolut nicht hören kann.
+Der Grad zwischen schwerhörig und gehörlos ist nicht immer so einfach zu bestimmen.
 Einige gehörlose Menschen nehmen also noch bestimmte Frequenzen und Geräusche war,
-aber nicht genug, um sich nur auf Ihr Gehör zu verlassen.
+aber nicht genug, um sich nur auf ihr Gehör zu verlassen.
 
 # Name immer buchstabieren ist doch umständlich
 

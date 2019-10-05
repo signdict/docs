@@ -1,10 +1,10 @@
 ## Allgemeines
 
-Wir bieten eine [GraphQL](https://www.graphql.com/) basierende
+Wir bieten eine auf [GraphQL](https://www.graphql.com/) basierende
 API für SignDict an. Du kannst diese [hier](https://signdict.org/graphql-api/graphiql)
 ausprobieren.
 
-Ein Beispiel für eine Abfrage die alle Einträge mit dem Wort "Zug" findet:
+Ein Beispiel für eine Abfrage, die alle Einträge mit dem Wort "Zug" findet:
 
 ```graphql
 {
@@ -26,7 +26,7 @@ Ein Beispiel für eine Abfrage die alle Einträge mit dem Wort "Zug" findet:
 ```
 
 Wenn du diese API benutzt, respektiere bitte die Lizenz unter der diese
-Videos stehen und zeige diese neben den Videos an. Zum Beispiel mit dem
+Videos stehen und zeige diese neben den Videos an, zum Beispiel mit dem
 folgenden Link:
 
 ```html
@@ -40,5 +40,5 @@ auch großartig.
 # Einträge
 
 Einträge enthalten Metadaten wie `text`und `type` und besitzen mindestens ein
-Video. Das Video mit den meisten Stimmen findest du unter `currentVideos`. Alle
+Video. Das Video mit den meisten Stimmen findest du unter `currentVideo`. Alle
 Videos findest du unter `videos`.
