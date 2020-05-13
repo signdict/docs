@@ -48,8 +48,16 @@ only screen and (max-width: 768px) {
   background-color: #10134b;
 }
 
+.wy-menu-vertical ul {
+  margin-bottom: 1rem;
+}
+
 .wy-menu-vertical a {
   color: white;
+}
+
+.wy-menu-vertical p.caption {
+  margin-bottom: 1rem;
 }
 
 .wy-menu-vertical span {
