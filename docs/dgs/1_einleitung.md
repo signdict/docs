@@ -8,7 +8,7 @@ Die Geschichte der Gebärdensprache wird in dieser Folge von
 [Sehen statt Hören](https://www.br.de/br-fernsehen/sendungen/sehen-statt-hoeren/index.html)
 sehr schon erklärt:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XaFWkBhwT3w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oZNxrglfbYg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Bei [SignDict](http://signdict.org) wirst du einzelne Worte und deren Gebärde
 finden. Viele haben dabei mehr als eine Variante, das Wort zu gebärden. Zum Beispiel
