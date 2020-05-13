@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../img/favicon.ico">
+  <title>API - SignDict</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../css/theme.css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+  <link href="../extra.css" rel="stylesheet" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "API";
+    var mkdocs_page_input_path = "api.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+
+  <!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
+  <script>
+  (function(f, a, t, h, o, m){
+    a[h]=a[h]||function(){
+      (a[h].q=a[h].q||[]).push(arguments)
+    };
+    o=f.createElement('script'),
+    m=f.getElementsByTagName('script')[0];
+    o.async=1; o.src=t; o.id='fathom-script';
+    m.parentNode.insertBefore(o,m)
+  })(document, window, '//ping.bitboxer.de/tracker.js', 'fathom');
+  fathom('set', 'siteId', 'NHQJY');
+  fathom('trackPageview');
+  </script>
+  <!-- / Fathom -->
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href=".." class="icon icon-home"> SignDict</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Durchsuche Dokumente" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="..">Übersicht</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../faq/">FAQ</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Deutsche Gebärdensprache (DGS)</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../dgs/1_einleitung/">Einleitung</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../dgs/2_mythen/">Mythen über die Gebärdensprache</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../dgs/3_lernen/">Lernen</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../dgs/4_fingeralphabet/">Fingeralphabet</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../dgs/99_hilfe/">Fortsetzung folgt</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Baby Sign</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../babysign/1_einleitung/">Einleitung</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../babysign/99_hilfe/">Fortsetzung folgt</a>
+                    </li>
+                </ul>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">API</a>
+    <ul class="current">
+    </ul>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="..">SignDict</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="">SignDict</a> &raquo;</li>
+    
+      
+    
+    <li>API</li>
+  </ul>
+  <hr/>
+  <div class="wy-breadcrumbs-aside">
+    
+    <a href="http://github.com/signdict/docs/edit/master/docs/api.md"
+      class="icon icon-github"> Auf GitHub bearbeiten</a>
+    
+  </div>
+</div>
+
+          <div role="main">
+            <div class="section">
+              
+                <h2 id="allgemeines">Allgemeines</h2>
+<p>Wir bieten eine auf <a href="https://www.graphql.com/">GraphQL</a> basierende
+API für SignDict an. Du kannst diese <a href="https://signdict.org/graphql-api/graphiql">hier</a>
+ausprobieren.</p>
+<p>Ein Beispiel für eine Abfrage, die alle Einträge mit dem Wort "Zug" findet:</p>
+<pre><code class="graphql">{
+  search(word: &quot;Zug&quot;) {
+    id
+    text
+    type
+    currentVideo {
+      videoUrl
+      license
+      copyright
+      originalHref
+      user {
+        name
+      }
+    }
+  }
+}
+</code></pre>
+
+<p>Wenn du diese API benutzt, respektiere bitte die Lizenz unter der diese
+Videos stehen und zeige diese neben den Videos an, zum Beispiel mit dem
+folgenden Link:</p>
+<pre><code class="html">&lt;a href='#{video.originalHref}'&gt;#{video.copyright}&lt;/a&gt; under 
+&lt;a href='https://creativecommons.org/licenses/#{video.license}'&gt;#{video.license}&lt;/a&gt;
+</code></pre>
+
+<p>Bitte kopiere die Videos auch auf ein eigenes CDN, direkt die Links von unserem
+CDN benutzen verursacht hohe kosten bei uns. Ein Link zurück zu SignDict wäre
+auch großartig.</p>
+<h1 id="eintrage">Einträge</h1>
+<p>Einträge enthalten Metadaten wie <code>text</code>und <code>type</code> und besitzen mindestens ein
+Video. Das Video mit den meisten Stimmen findest du unter <code>currentVideo</code>. Alle
+Videos findest du unter <code>videos</code>.</p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+      
+        <a href="/babysign/99_hilfe/" class="btn btn-neutral" title="Fortsetzung folgt">&laquo; Vorherige</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+      Hast du lust, mitzuhelfen? Dann <a href="https://signdict.org/contact">schreibe mir</a>.
+    </p>
+    
+      <p>
+        <a href='https://signdict.org'>SignDict Dokumentation</a> - Lizenziert unter <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA</a> 
+      </p>
+    
+
+
+    <p>
+      Erstellt mit <a href="http://www.mkdocs.org">MkDocs</a> mit Hilfe eines <a href="https://github.com/snide/sphinx_rtd_theme">Theme</a> bereitgestellt von <a href="https://readthedocs.org">Read the Docs</a>.
+    </p>
+  </div>
+
+</footer>
+
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+          <a href="http://github.com/signdict/docs/" class="fa fa-github" style="float: left; color: #fcfcfc"> GitHub</a>
+      
+      
+        <span><a href="../babysign/99_hilfe/" style="color: #fcfcfc;">&laquo; Vorherige</a></span>
+      
+      
+    </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
